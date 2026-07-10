@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- English Strings -->
+    <string name="app_name">Megha Mamuni</string>
+    <string name="welcome_message">Hello! I am Megha Mamuni. How can I help you today?</string>
+    <string name="hint_type_message">Type a message...</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_voice">Voice</string>
+    <string name="tab_settings">Settings</string>
+    <string name="status_battery">Battery: %d%%</string>
+    <string name="status_online">Online</string>
+    <string name="avatar_description">Cute Megha Mamuni Avatar</string>
+    <string name="send_description">Send Message</string>
+    <string name="mic_description">Microphone Input</string>
+    <string name="listening">Listening...</string>
+    <string name="permission_denied">Permission denied. Cannot use feature.</string>
+    <string name="settings_title">Megha Mamuni Settings</string>
+    <string name="device_optimization_on">Low RAM Optimization: Active (2GB target)</string>
+    <string name="voice_mode_activated">Voice interaction mode enabled.</string>
+    
+    <!-- Bangla Strings (In-line translations for absolute localization) -->
+    <string name="bn_app_name">মেঘ মামুনি</string>
+    <string name="bn_welcome_message">হ্যালো! আমি মেঘ মামুনি। আজ আপনাকে কীভাবে সাহায্য করতে পারি?</string>
+    <string name="bn_hint_type_message">একটি বার্তা লিখুন...</string>
+    <string name="bn_tab_chat">চ্যাট</string>
+    <string name="bn_tab_voice">ভয়েস</string>
+    <string name="bn_tab_settings">সেটিংস</string>
+    <string name="bn_status_battery">ব্যাটারি: %d%%</string>
+    <string name="bn_status_online">অনলাইন</string>
+    <string name="bn_avatar_description">মিষ্টি মেঘ মামুনি অবতার</string>
+    <string name="bn_send_description">বার্তা পাঠান</string>
+    <string name="bn_mic_description">মাইক্রোফোন ইনপুট</string>
+    <string name="bn_listening">শুনছি...</string>
+    <string name="bn_permission_denied">অনুমতি প্রত্যাখ্যাত হয়েছে। ফিচারটি ব্যবহার করা যাচ্ছে না।</string>
+    <string name="bn_settings_title">মেঘ মামুনি সেটিংস</string>
+    <string name="bn_device_optimization_on">কম র‍্যাম অপ্টিমাইজেশন: সক্রিয় (২জিবি ডিভাইস লক্ষ্য)</string>
+    <string name="bn_voice_mode_activated">ভয়েস ইন্টারঅ্যাকশন মোড চালু করা হয়েছে।</string>
+</resources>
