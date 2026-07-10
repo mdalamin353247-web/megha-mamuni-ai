@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary theme colors (Blue, White, Pink scheme) -->
+    <!-- Primary Blue / প্রধান নীল রঙ -->
+    <color name="primary_blue">#1565C0</color>
+    <color name="primary_dark_blue">#0D47A1</color>
+    
+    <!-- Accent Pink / গোলাপী উজ্জ্বল রঙ -->
+    <color name="accent_pink">#E91E8C</color>
+    <color name="light_pink">#FCE4EC</color>
+
+    <!-- Backgrounds and Whites / ব্যাকগ্রাউন্ড এবং সাদা রঙ -->
+    <color name="background_light_blue">#E3F2FD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#F5F5F5</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#E0E0E0</color>
+    
+    <!-- Bubble colors / চ্যাট বাবল এর রঙ -->
+    <color name="chat_bubble_user">#1565C0</color>
+    <color name="chat_bubble_ai">#FFFFFF</color>
+    <color name="text_user">#FFFFFF</color>
+    <color name="text_ai">#212121</color>
+</resources>
