@@ -129,7 +129,6 @@ class VoiceManager(private val context: Context) {
             putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
             putExtra(RecognizerIntent.EXTRA_LANGUAGE, if (currentLanguage == "bn") "bn-BD" else "en-US")
             putExtra(RecognizerIntent.EXTRA_LANGUAGE_PREFERENCE, if (currentLanguage == "bn") "bn-BD" else "en-US")
-            putExtra(RecognizerIntent.EXTRA_ONLY_RETURN_LANGUAGE_RESULTS, false)
             putExtra(RecognizerIntent.EXTRA_MAX_RESULTS, 3)
             putExtra(RecognizerIntent.EXTRA_PARTIAL_RESULTS, true)
         }
