@@ -7,14 +7,12 @@
     android:padding="4dp">
 
     <TextView
-        android:id="@+id/text_message_body"
+        android:id="@+id/tvMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:maxWidth="260dp"
-        android:background="@drawable/bg_ai_bubble"
-        android:padding="12dp"
-        android:textColor="#1A1A2E"
+        android:background="#FCE4EC"
+        android:textColor="#212121"
+        android:padding="10dp"
         android:textSize="15sp"
-        android:lineSpacingExtra="3dp" />
-
+        android:maxWidth="280dp" />
 </LinearLayout>
