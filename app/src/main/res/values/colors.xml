@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Blue -->
+    <color name="primary_blue">#1565C0</color>
+    <color name="primary_dark_blue">#0D47A1</color>
+    <color name="light_blue">#E3F2FD</color>
+
+    <!-- Accent Pink (Megha Mamuni signature color) -->
+    <color name="accent_pink">#E91E63</color>
+    <color name="light_pink">#FCE4EC</color>
+
+    <!-- Background -->
+    <color name="background_light">#F8F9FF</color>
+    <color name="background_dark">#0D1117</color>
+
+    <!-- Surfaces -->
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#161B22</color>
+
+    <!-- Text -->
+    <color name="text_primary_light">#1A1A2E</color>
+    <color name="text_primary_dark">#F0F6FF</color>
+
+    <!-- Chat Bubbles -->
+    <color name="bubble_user">#1565C0</color>
+    <color name="bubble_ai">#FFFFFF</color>
+    <color name="text_bubble_user">#FFFFFF</color>
+    <color name="text_bubble_ai">#1A1A2E</color>
+
+    <!-- Status colors -->
+    <color name="online_green">#4CAF50</color>
+    <color name="white">#FFFFFF</color>
+</resources>
