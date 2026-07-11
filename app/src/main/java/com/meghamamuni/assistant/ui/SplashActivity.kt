@@ -10,10 +10,12 @@ import com.meghamamuni.app.MainActivity
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // Simple delay then go to MainActivity
         Handler(Looper.getMainLooper()).postDelayed({
-            startActivity(Intent(this, MainActivity::class.java))
-            finish()
-        }, 1500)
+            if (!isFinishing) {
+                startActivity(Intent(this, MainActivity::class.java))
+                finish()
+            }
+        }, 1200)
     }
 }
+
