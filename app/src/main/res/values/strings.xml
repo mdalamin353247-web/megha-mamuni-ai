@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">মেঘা মামুনি</string>
+    <string name="welcome">হ্যালো! আমি মেঘা মামুনি 🌸</string>
+    <string name="hint_message">মেঘাকে কিছু বলুন...</string>
+    <string name="btn_send">পাঠান</string>
+    <string name="btn_mic">কথা বলুন</string>
+    <string name="status_online">অনলাইন ✨</string>
+    <string name="status_thinking">ভাবছি... 🤔</string>
+    <string name="status_listening">শুনছি... 👂</string>
+    <string name="status_speaking">বলছি... 💬</string>
+    <string name="tab_chat">চ্যাট</string>
+    <string name="tab_voice">ভয়েস</string>
+    <string name="tab_settings">সেটিংস</string>
+    <string name="settings_title">সেটিংস</string>
+    <string name="permission_denied">অনুমতি দরকার</string>
+</resources>
